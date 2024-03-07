@@ -1,0 +1,58 @@
+#signin {
+  text-align: center;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+#main-nav {
+  text-align: center;
+}
+
+#username {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+#signin-btn {
+  margin-top: 1rem;
+}
+
+#nav {
+  display: grid;
+  grid-template-columns: 33% 34% 33%;
+  text-align: center;
+}
+
+.profile-img {
+  width: 5rem;
+  height: 5rem;
+  object-fit: cover;
+}
+
+.post-img {
+  height: 20rem;
+  width: 100%;
+  object-fit: cover;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.post-box {
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+.pic-and-name {
+  display: grid;
+  grid-template-columns: 5rem 10rem;
+  margin-bottom: 1rem;
+}
+
+.name {
+  margin-top: 2rem;
+  margin-left: 1rem;
+}
+
+.btn {
+  margin-top: 1rem;
+}
